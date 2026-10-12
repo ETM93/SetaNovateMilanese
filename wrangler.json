@@ -1,3 +1,7 @@
 {
-  "name": "seta-beauty-novate"
+  "name": "seta-beauty-novate",
+  "routes": [
+    { "pattern": "setanovatemilanese.beauty", "custom_domain": true },
+    { "pattern": "www.setanovatemilanese.beauty", "custom_domain": true }
+  ]
 }
